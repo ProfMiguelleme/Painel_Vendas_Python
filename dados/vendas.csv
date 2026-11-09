@@ -1,0 +1,242 @@
+id,data,produto,categoria,quantidade,preco_unitario,regiao,vendedor
+1,2026-01-13,Monitor 24,Perifericos,3,899.0,Sudeste,Bruno
+2,2026-02-22,Teclado Mecanico,Perifericos,5,349.9,Sul,Diego
+3,2026-01-16,Notebook 15,Computadores,1,3499.9,Sudeste,Bruno
+4,2026-10-15,Notebook 15,Computadores,2,3499.9,Centro-Oeste,Bruno
+5,2026-05-23,Headset USB,Audio,1,159.9,Sudeste,Diego
+6,2026-05-23,Cadeira Gamer,Moveis,2,1290.0,Sudeste,Carla
+7,2026-02-17,Monitor 24,Perifericos,4,899.0,Sul,Carla
+8,2026-05-16,Cadeira Gamer,Moveis,1,1290.0,Centro-Oeste,Ana
+9,2026-02-10,Mesa Escritorio,Moveis,5,780.0,Nordeste,Carla
+10,2026-02-05,Mouse Sem Fio,Perifericos,1,89.9,Sudeste,Carla
+11,2026-04-30,Monitor 24,Perifericos,,899.0,Centro-Oeste,Carla
+12,2026-07-06,Headset USB,Audio,2,159.9,Nordeste,Carla
+13,2026-05-17,Mouse Sem Fio,Perifericos,1,89.9,Sudeste,Bruno
+14,2026-08-25,Teclado Mecanico,Perifericos,4,349.9,Nordeste,Bruno
+15,2026-01-29,Cadeira Gamer,Moveis,2,1290.0,Sul,Carla
+16,2026-05-18,Mesa Escritorio,Moveis,1,780.0,Sudeste,Carla
+17,2026-09-13,Mouse Sem Fio,Perifericos,4,89.9,Centro-Oeste,Bruno
+18,2026-03-13,Webcam Full HD,Perifericos,2,199.9,Nordeste,Diego
+19,2026-07-05,Mesa Escritorio,Moveis,2,780.0,Sudeste,Diego
+20,2026-01-25,Monitor 24,Perifericos,1,899.0,Sudeste,Bruno
+21,2026-02-02,Mesa Escritorio,Moveis,4,780.0,Centro-Oeste,Diego
+22,2026-10-11,Webcam Full HD,Perifericos,1,199.9,Sul,Carla
+23,2026-02-27,Cadeira Gamer,Moveis,3,1290.0,Centro-Oeste,Bruno
+24,2026-01-02,Headset USB,Audio,3,159.9,Sudeste,Ana
+25,2026-09-17,Webcam Full HD,Perifericos,5,199.9,Sudeste,Bruno
+26,2026-03-24,Cadeira Gamer,Moveis,5,,Sul,Carla
+27,2026-01-10,Headset USB,Audio,1,159.9,Nordeste,Carla
+28,2026-01-30,Mouse Sem Fio,Perifericos,2,89.9,Sul,Ana
+29,2026-02-05,Headset USB,Audio,5,159.9,Sudeste,Bruno
+30,2026-10-09,Headset USB,Audio,2,159.9,Nordeste,Diego
+31,2026-10-04,Mouse Sem Fio,Perifericos,2,89.9,Nordeste,Diego
+32,2026-08-13,Cadeira Gamer,Moveis,5,1290.0,Centro-Oeste,Ana
+33,2026-04-26,Mouse Sem Fio,Perifericos,1,89.9,Nordeste,Ana
+34,2026-04-23,Mouse Sem Fio,Perifericos,1,89.9,Sul,Ana
+35,2026-02-04,Mouse Sem Fio,Perifericos,1,89.9,Nordeste,Ana
+36,2026-05-23,Mouse Sem Fio,Perifericos,4,89.9,Sudeste,Bruno
+37,2026-05-05,Headset USB,Audio,4,159.9,Centro-Oeste,Bruno
+38,2026-02-19,Monitor 24,Perifericos,4,899.0,Nordeste,Diego
+39,2026-08-28,Mesa Escritorio,Moveis,1,780.0,Sul,Ana
+40,2026-06-23,Mesa Escritorio,Moveis,1,780.0,Sudeste,Bruno
+41,data-invalida,Mouse Sem Fio,Perifericos,4,89.9,Sudeste,Diego
+42,2026-05-23,Teclado Mecanico,Perifericos,4,349.9,Sudeste,Ana
+43,2026-10-09,Headset USB,Audio,1,159.9,Sul,Ana
+44,2026-05-02,Monitor 24,Perifericos,2,899.0,Centro-Oeste,Diego
+45,2026-04-20,Headset USB,Audio,4,159.9,Sul,Bruno
+46,2026-01-02,Mesa Escritorio,Moveis,4,780.0,Nordeste,Diego
+47,2026-08-05,Webcam Full HD,Perifericos,5,199.9,Centro-Oeste,Bruno
+48,2026-06-01,Mouse Sem Fio,Perifericos,2,89.9,Sul,Ana
+49,2026-01-30,Cadeira Gamer,Moveis,1,1290.0,Centro-Oeste,Bruno
+50,2026-09-18,Notebook 15,Computadores,1,3499.9,Sudeste,Ana
+51,2026-05-01,Monitor 24,Perifericos,4,899.0,Sul,Bruno
+52,2026-02-11,Notebook 15,Computadores,4,3499.9,Nordeste,Carla
+53,2026-06-10,Mouse Sem Fio,Perifericos,2,89.9,Nordeste,Diego
+54,2026-06-03,Teclado Mecanico,Perifericos,4,349.9,Nordeste,Ana
+55,2026-08-23,Notebook 15,Computadores,5,3499.9,Sul,Ana
+56,2026-09-17,Mouse Sem Fio,Perifericos,3,89.9,Sudeste,Carla
+57,2026-05-06,Monitor 24,Perifericos,3,899.0,Nordeste,Bruno
+58,2026-10-06,Headset USB,Audio,3,159.9,Sul,Carla
+59,2026-03-10,Monitor 24,Perifericos,3,899.0,Sul,Ana
+60,2026-05-20,Teclado Mecanico,Perifericos,3,349.9,Sudeste,Carla
+61,2026-05-16,Mouse Sem Fio,Perifericos,5,89.9,Centro-Oeste,Carla
+62,2026-02-17,Notebook 15,Computadores,4,3499.9,Nordeste,Ana
+63,2026-06-20,Notebook 15,Computadores,2,3499.9,Nordeste,Bruno
+64,2026-10-10,Headset USB,Audio,4,159.9,Sul,Ana
+65,2026-03-18,Monitor 24,Perifericos,5,899.0,Sul,Carla
+66,2026-08-09,Teclado Mecanico,Perifericos,2,349.9,Sul,Carla
+67,2026-01-21,Cadeira Gamer,Moveis,3,1290.0,Sudeste,Bruno
+68,2026-07-01,Monitor 24,Perifericos,5,899.0,Centro-Oeste,Bruno
+69,2026-03-25,Mouse Sem Fio,Perifericos,2,89.9,Centro-Oeste,Ana
+70,2026-06-20,Teclado Mecanico,Perifericos,4,349.9,Sudeste,Carla
+71,2026-02-25,Teclado Mecanico,Perifericos,4,349.9,Sul,Diego
+72,2026-04-13,Mouse Sem Fio,Perifericos,4,89.9,Nordeste,Carla
+73,2026-04-25,Mouse Sem Fio,Perifericos,1,89.9,Sudeste,Diego
+74,2026-05-23,Cadeira Gamer,Moveis,1,1290.0,Nordeste,Carla
+75,2026-10-02,Mesa Escritorio,Moveis,3,780.0,Sul,Ana
+76,2026-04-02,Webcam Full HD,Perifericos,5,199.9,Nordeste,Ana
+77,2026-08-11,Monitor 24,Perifericos,3,899.0,Nordeste,Diego
+78,2026-07-17,Monitor 24,Perifericos,5,899.0,Sudeste,Carla
+79,2026-08-12,Notebook 15,Computadores,1,3499.9,Sudeste,Carla
+80,2026-02-05,Mesa Escritorio,Moveis,3,780.0,Nordeste,Ana
+81,2026-09-17,Webcam Full HD,Perifericos,3,199.9,Centro-Oeste,Carla
+82,2026-06-01,Mesa Escritorio,Moveis,5,780.0,Sudeste,Bruno
+83,2026-07-14,Mesa Escritorio,Moveis,2,780.0,Nordeste,Diego
+84,2026-06-05,Notebook 15,Computadores,3,3499.9,Sudeste,Diego
+85,2026-08-27,Cadeira Gamer,Moveis,4,1290.0,Centro-Oeste,Bruno
+86,2026-03-28,Headset USB,Audio,1,159.9,Nordeste,Carla
+87,2026-05-01,Monitor 24,Perifericos,3,899.0,Sudeste,Bruno
+88,2026-01-13,Teclado Mecanico,Perifericos,1,349.9,Sudeste,Diego
+89,2026-08-22,Monitor 24,Perifericos,4,899.0,Sudeste,Diego
+90,2026-07-24,Headset USB,Audio,2,159.9,Sudeste,Ana
+91,2026-08-06,Monitor 24,Perifericos,2,899.0,Sudeste,Diego
+92,2026-10-13,Notebook 15,Computadores,2,3499.9,Sul,Diego
+93,2026-08-26,Teclado Mecanico,Perifericos,5,349.9,Nordeste,Diego
+94,2026-10-08,Mesa Escritorio,Moveis,4,780.0,Sudeste,Diego
+95,2026-05-13,Headset USB,Audio,2,159.9,Nordeste,Diego
+96,2026-05-21,Mouse Sem Fio,Perifericos,4,89.9,Sul,Carla
+97,2026-05-20,Mouse Sem Fio,Perifericos,3,89.9,Nordeste,Ana
+98,2026-03-19,Teclado Mecanico,Perifericos,2,349.9,Centro-Oeste,Bruno
+99,2026-02-02,Mouse Sem Fio,Perifericos,4,89.9,Centro-Oeste,Carla
+100,2026-08-01,Headset USB,Audio,1,159.9,Sudeste,Diego
+101,2026-10-27,Mesa Escritorio,Moveis,1,780.0,Centro-Oeste,Diego
+102,2026-06-30,Notebook 15,Computadores,3,3499.9,Centro-Oeste,Diego
+103,2026-09-07,Mouse Sem Fio,Perifericos,2,89.9,Nordeste,Diego
+104,2026-01-15,Headset USB,Audio,4,159.9,Nordeste,Diego
+105,2026-08-28,Teclado Mecanico,Perifericos,2,349.9,Sul,Diego
+106,2026-02-12,Notebook 15,Computadores,4,3499.9,Sudeste,Diego
+107,2026-01-26,Teclado Mecanico,Perifericos,3,349.9,Centro-Oeste,Carla
+108,2026-08-21,Mouse Sem Fio,Perifericos,3,89.9,Nordeste,Diego
+109,2026-08-04,Webcam Full HD,Perifericos,3,199.9,Sul,Diego
+110,2026-10-04,Notebook 15,Computadores,1,3499.9,Nordeste,Bruno
+111,2026-01-21,Monitor 24,Perifericos,1,899.0,Sudeste,Bruno
+112,2026-03-20,Notebook 15,Computadores,2,3499.9,Sudeste,Diego
+113,2026-10-16,Monitor 24,Perifericos,2,899.0,Centro-Oeste,Carla
+114,2026-03-27,Cadeira Gamer,Moveis,5,1290.0,Sul,Bruno
+115,2026-02-25,Webcam Full HD,Perifericos,5,199.9,Sul,Carla
+116,2026-07-23,Mesa Escritorio,Moveis,2,780.0,Sul,Bruno
+117,2026-06-04,Monitor 24,Perifericos,5,899.0,Sul,Ana
+118,2026-09-30,Cadeira Gamer,Moveis,4,1290.0,Nordeste,Ana
+119,2026-01-07,Cadeira Gamer,Moveis,4,1290.0,Centro-Oeste,Ana
+120,2026-07-05,Mesa Escritorio,Moveis,4,780.0,Sudeste,Diego
+121,2026-09-25,Teclado Mecanico,Perifericos,3,349.9,Centro-Oeste,Diego
+122,2026-05-18,Mesa Escritorio,Moveis,3,780.0,Sudeste,Ana
+123,2026-08-19,Webcam Full HD,Perifericos,2,199.9,Centro-Oeste,Diego
+124,2026-01-15,Cadeira Gamer,Moveis,4,1290.0,Nordeste,Bruno
+125,2026-04-19,Headset USB,Audio,3,159.9,Nordeste,Carla
+126,2026-05-22,Webcam Full HD,Perifericos,5,199.9,Sul,Bruno
+127,2026-05-04,Monitor 24,Perifericos,4,899.0,Centro-Oeste,Bruno
+128,2026-09-09,Headset USB,Audio,4,159.9,Sul,Ana
+129,2026-04-24,Webcam Full HD,Perifericos,4,199.9,Sudeste,Carla
+130,2026-08-31,Cadeira Gamer,Moveis,5,1290.0,Nordeste,Diego
+131,2026-06-30,Cadeira Gamer,Moveis,4,1290.0,Nordeste,Carla
+132,2026-04-29,Webcam Full HD,Perifericos,1,199.9,Sudeste,Carla
+133,2026-10-02,Monitor 24,Perifericos,2,899.0,Sudeste,Bruno
+134,2026-05-22,Headset USB,Audio,5,159.9,Nordeste,Ana
+135,2026-06-01,Mouse Sem Fio,Perifericos,2,89.9,Nordeste,Bruno
+136,2026-01-08,Webcam Full HD,Perifericos,5,199.9,Sudeste,Carla
+137,2026-01-28,Notebook 15,Computadores,5,3499.9,Nordeste,Bruno
+138,2026-02-22,Headset USB,Audio,1,159.9,Nordeste,Diego
+139,2026-08-14,Headset USB,Audio,3,159.9,Sudeste,Ana
+140,2026-09-02,Webcam Full HD,Perifericos,1,199.9,Sul,Diego
+141,2026-02-07,Headset USB,Audio,5,159.9,Sul,Bruno
+142,2026-10-16,Teclado Mecanico,Perifericos,3,349.9,Sul,Bruno
+143,2026-10-13,Monitor 24,Perifericos,4,899.0,Sudeste,Diego
+144,2026-08-15,Headset USB,Audio,3,159.9,Centro-Oeste,Carla
+145,2026-02-20,Notebook 15,Computadores,2,3499.9,Sudeste,Carla
+146,2026-03-22,Monitor 24,Perifericos,2,899.0,Sudeste,Ana
+147,2026-01-02,Teclado Mecanico,Perifericos,4,349.9,Centro-Oeste,Diego
+148,2026-01-17,Webcam Full HD,Perifericos,2,199.9,Nordeste,Carla
+149,2026-02-06,Headset USB,Audio,2,159.9,Nordeste,Bruno
+150,2026-02-28,Mesa Escritorio,Moveis,5,780.0,Sudeste,Bruno
+151,2026-03-14,Webcam Full HD,Perifericos,1,199.9,Sul,Bruno
+152,2026-10-19,Webcam Full HD,Perifericos,3,199.9,Centro-Oeste,Ana
+153,2026-06-05,Headset USB,Audio,4,159.9,Nordeste,Diego
+154,2026-02-11,Headset USB,Audio,5,159.9,Sul,Diego
+155,2026-05-09,Cadeira Gamer,Moveis,1,1290.0,Sul,Bruno
+156,2026-05-18,Notebook 15,Computadores,5,3499.9,Sul,Bruno
+157,2026-09-23,Headset USB,Audio,4,159.9,Nordeste,Bruno
+158,2026-09-09,Mesa Escritorio,Moveis,1,780.0,Centro-Oeste,Carla
+159,2026-06-20,Mesa Escritorio,Moveis,3,780.0,Sul,Bruno
+160,2026-07-30,Cadeira Gamer,Moveis,4,1290.0,Nordeste,Diego
+161,2026-08-21,Notebook 15,Computadores,1,3499.9,Nordeste,Carla
+162,2026-03-01,Cadeira Gamer,Moveis,4,1290.0,Sul,Diego
+163,2026-01-28,Mesa Escritorio,Moveis,2,780.0,Nordeste,Diego
+164,2026-01-27,Headset USB,Audio,2,159.9,Nordeste,Bruno
+165,2026-08-13,Webcam Full HD,Perifericos,4,199.9,Sul,Ana
+166,2026-03-23,Mouse Sem Fio,Perifericos,3,89.9,Sul,Diego
+167,2026-04-26,Monitor 24,Perifericos,1,899.0,Centro-Oeste,Ana
+168,2026-09-13,Teclado Mecanico,Perifericos,3,349.9,Nordeste,Diego
+169,2026-08-30,Headset USB,Audio,2,159.9,Centro-Oeste,Bruno
+170,2026-04-08,Mesa Escritorio,Moveis,5,780.0,Sudeste,Ana
+171,2026-08-01,Webcam Full HD,Perifericos,3,199.9,Nordeste,Ana
+172,2026-06-02,Webcam Full HD,Perifericos,5,199.9,Centro-Oeste,Bruno
+173,2026-10-03,Headset USB,Audio,4,159.9,Nordeste,Carla
+174,2026-08-22,Mesa Escritorio,Moveis,3,780.0,Sudeste,Bruno
+175,2026-04-30,Mesa Escritorio,Moveis,4,780.0,Sul,Carla
+176,2026-07-15,Headset USB,Audio,4,159.9,Sudeste,Diego
+177,2026-03-06,Notebook 15,Computadores,5,3499.9,Nordeste,Ana
+178,2026-02-21,Headset USB,Audio,5,159.9,Centro-Oeste,Ana
+179,2026-07-29,Teclado Mecanico,Perifericos,2,349.9,Sul,Diego
+180,2026-06-23,Webcam Full HD,Perifericos,5,199.9,Centro-Oeste,Ana
+181,2026-10-01,Cadeira Gamer,Moveis,4,1290.0,Nordeste,Diego
+182,2026-02-05,Notebook 15,Computadores,2,3499.9,Nordeste,Bruno
+183,2026-08-11,Monitor 24,Perifericos,1,899.0,Sul,Diego
+184,2026-06-03,Teclado Mecanico,Perifericos,1,349.9,Sul,Carla
+185,2026-05-31,Notebook 15,Computadores,3,3499.9,Nordeste,Diego
+186,2026-05-06,Teclado Mecanico,Perifericos,5,349.9,Centro-Oeste,Bruno
+187,2026-03-31,Teclado Mecanico,Perifericos,1,349.9,Centro-Oeste,Bruno
+188,2026-10-26,Headset USB,Audio,2,159.9,Sudeste,Diego
+189,2026-08-24,Webcam Full HD,Perifericos,3,199.9,Sul,Diego
+190,2026-10-07,Webcam Full HD,Perifericos,2,199.9,Sul,Diego
+191,2026-06-03,Cadeira Gamer,Moveis,4,1290.0,Nordeste,Diego
+192,2026-04-12,Webcam Full HD,Perifericos,4,199.9,Centro-Oeste,Ana
+193,2026-07-15,Mouse Sem Fio,Perifericos,5,89.9,Nordeste,Carla
+194,2026-01-12,Webcam Full HD,Perifericos,4,199.9,Nordeste,Ana
+195,2026-09-12,Notebook 15,Computadores,3,3499.9,Sudeste,Carla
+196,2026-04-08,Mouse Sem Fio,Perifericos,5,89.9,Nordeste,Bruno
+197,2026-01-21,Monitor 24,Perifericos,3,899.0,Centro-Oeste,Ana
+198,2026-03-09,Cadeira Gamer,Moveis,1,1290.0,Nordeste,Carla
+199,2026-03-31,Mesa Escritorio,Moveis,2,780.0,Sudeste,Carla
+200,2026-03-26,Webcam Full HD,Perifericos,3,199.9,Centro-Oeste,Carla
+201,2026-02-28,Cadeira Gamer,Moveis,4,1290.0,Sul,Bruno
+202,2026-07-23,Mouse Sem Fio,Perifericos,5,89.9,Nordeste,Ana
+203,2026-01-08,Mesa Escritorio,Moveis,3,780.0,Sul,Diego
+204,2026-05-15,Cadeira Gamer,Moveis,5,1290.0,Centro-Oeste,Carla
+205,2026-04-30,Monitor 24,Perifericos,4,899.0,Sul,Carla
+206,2026-02-02,Mouse Sem Fio,Perifericos,4,89.9,Nordeste,Diego
+207,2026-03-13,Monitor 24,Perifericos,1,899.0,Sul,Carla
+208,2026-03-01,Headset USB,Audio,1,159.9,Sudeste,Bruno
+209,2026-08-21,Mesa Escritorio,Moveis,3,780.0,Centro-Oeste,Bruno
+210,2026-02-20,Mesa Escritorio,Moveis,4,780.0,Centro-Oeste,Carla
+211,2026-07-09,Notebook 15,Computadores,2,3499.9,Centro-Oeste,Diego
+212,2026-07-05,Mouse Sem Fio,Perifericos,1,89.9,Nordeste,Carla
+213,2026-07-23,Notebook 15,Computadores,3,3499.9,Sudeste,Ana
+214,2026-02-16,Headset USB,Audio,2,159.9,Sul,Ana
+215,2026-05-05,Cadeira Gamer,Moveis,2,1290.0,Sudeste,Ana
+216,2026-04-21,Mouse Sem Fio,Perifericos,2,89.9,Nordeste,Bruno
+217,2026-05-22,Notebook 15,Computadores,2,3499.9,Sudeste,Carla
+218,2026-02-26,Teclado Mecanico,Perifericos,1,349.9,Sudeste,Ana
+219,2026-05-02,Cadeira Gamer,Moveis,5,1290.0,Nordeste,Ana
+220,2026-05-16,Teclado Mecanico,Perifericos,1,349.9,Sudeste,Diego
+221,2026-02-02,Monitor 24,Perifericos,4,899.0,Centro-Oeste,Carla
+222,2026-08-20,Monitor 24,Perifericos,5,899.0,Sudeste,Ana
+223,2026-08-23,Webcam Full HD,Perifericos,1,199.9,Sul,Diego
+224,2026-08-07,Mesa Escritorio,Moveis,1,780.0,Centro-Oeste,Diego
+225,2026-02-11,Monitor 24,Perifericos,3,899.0,Sudeste,Ana
+226,2026-05-21,Teclado Mecanico,Perifericos,5,349.9,Nordeste,Diego
+227,2026-08-21,Webcam Full HD,Perifericos,5,199.9,Centro-Oeste,Ana
+228,2026-10-10,Monitor 24,Perifericos,2,899.0,Centro-Oeste,Diego
+229,2026-07-31,Mouse Sem Fio,Perifericos,3,89.9,Centro-Oeste,Diego
+230,2026-02-18,Mesa Escritorio,Moveis,3,780.0,Centro-Oeste,Carla
+231,2026-07-11,Webcam Full HD,Perifericos,2,199.9,Centro-Oeste,Ana
+232,2026-02-13,Monitor 24,Perifericos,1,899.0,Centro-Oeste,Ana
+233,2026-03-08,Cadeira Gamer,Moveis,5,1290.0,Sul,Carla
+234,2026-07-30,Monitor 24,Perifericos,3,899.0,Centro-Oeste,Ana
+235,2026-06-09,Webcam Full HD,Perifericos,3,199.9,Sul,Bruno
+236,2026-09-04,Teclado Mecanico,Perifericos,2,349.9,Sul,Carla
+237,2026-02-28,Cadeira Gamer,Moveis,3,1290.0,Sudeste,Diego
+238,2026-05-17,Notebook 15,Computadores,1,3499.9,Sudeste,Carla
+239,2026-06-23,Webcam Full HD,Perifericos,3,199.9,Sul,Bruno
+240,2026-10-17,Teclado Mecanico,Perifericos,4,349.9,Sul,Bruno
+6,2026-05-23,Cadeira Gamer,Moveis,2,1290.0,Sudeste,Carla
